@@ -2,11 +2,9 @@
 class mainClass {
 
 	public static void main(String[] args) {
-		int a;
-		a=5;
-		for(int i=1; i<a; i++){
-            System.out.println("Count is: "
-                               + i);
+
+		for(int i=1; i<11; i++){
+            System.out.println("i="+ i);
        }
 
 
